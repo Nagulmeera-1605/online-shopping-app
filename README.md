@@ -1,25 +1,13 @@
-# Online Shopping App – Product Backlog
+## Sprint Planning
 
-## EPIC 1: User Authentication
-- User can sign up using email
-- User can login/logout
-- OTP verification
-- Forgot password
+### Sprint 1
+- User Signup
+- User Login
+- Product Search
+- View Product Details
 
-## EPIC 2: Product Browsing
-- Search products
-- Filter products
-- Sort by price
-- View product details
-
-## EPIC 3: Shopping Cart
-- Add product to cart
-- Remove product
-- Update quantity
-- Show total price
-
-## EPIC 4: Checkout
-- Select address
-- Choose payment method
-- Apply coupon
-- Order confirmation
+### Sprint 2
+- Add to Cart
+- Remove from Cart
+- Checkout
+- Payment Integration
